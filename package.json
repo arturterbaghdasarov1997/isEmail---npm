@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/arturterbaghdasarov1997/isEmail---npm/issues"
   },
-  "homepage": "https://github.com/arturterbaghdasarov1997/isEmail---npm#readme"
+  "homepage": "https://github.com/arturterbaghdasarov1997/isEmail---npm#readme",
+  "dependencies": {
+    "validator": "^13.12.0"
+  }
 }
