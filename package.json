@@ -8,8 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "isEmail---npm"
+    "url": "git+https://github.com/arturterbaghdasarov1997/isEmail---npm.git"
   },
   "author": "Artur",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arturterbaghdasarov1997/isEmail---npm/issues"
+  },
+  "homepage": "https://github.com/arturterbaghdasarov1997/isEmail---npm#readme"
 }
